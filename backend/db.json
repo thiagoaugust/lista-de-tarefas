@@ -1,0 +1,22 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Lavar a louça",
+      "status": "a fazer",
+      "prioridade": "importante"
+    },
+    {
+      "id": 2,
+      "descricao": "Comprar manteiga",
+      "status": "a fazer",
+      "prioridade": "importante"
+    },
+    {
+      "id": 3,
+      "descricao": "Cancelar Netflix",
+      "status": "a fazer",
+      "prioridade": "urgente"
+    }
+  ]
+}
